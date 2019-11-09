@@ -4,6 +4,7 @@
 			h1, h2, h3, h4, h5, h6 {color:#f7f7f2;}
 h1{font-size: 45px;}
 h2{font-size: 25px;}
+p{font-size: 15px; padding-left: 10; padding-right: 10;}
 			#page { background:#f7f7f2;}
 			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
 						
@@ -30,7 +31,7 @@ h2{font-size: 25px;}
 nav{font-size: 14px;}
 			
 			/* Content */
-			#content-inner { margin:0 auto; padding:10px; width:970px;background:#f7f7f2;}
+			#content-inner { margin:10px; padding:10px; width:970px;background:#f7f7f2;}
 			#content #contentbar { margin:0; padding:0; float:right; width:760px;}
 			#content #contentbar .article { margin:0 0 24px; padding:0 20px 0 15px; }
 			#content #sidebar { padding:0; float:left; width:200px;}
